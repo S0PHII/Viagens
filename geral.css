@@ -1,7 +1,7 @@
 :root {
-    cabecalho: #A31D1D;
-    corpo: #ECDCBF;
-    caixas: #D84040;
+    --cabecalho: #A31D1D;
+    --corpo: #ECDCBF;
+    --caixas: #D84040;
 
 }
 
