@@ -1,0 +1,22 @@
+:root {
+    cabecalho: #A31D1D;
+    corpo: #ECDCBF;
+    caixas: #D84040;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--cabecalho);
+  min-height: 100vh;
+}
+
+header {
+    height: 12vh;
+    background-color:var(--corpo);
+}
