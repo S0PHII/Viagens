@@ -20,3 +20,19 @@ header {
     height: 12vh;
     background-color:var(--corpo);
 }
+
+header h1 {
+      position: absolute;
+    margin-left: 20vh;
+    font-size: 9vh;
+    margin-top: 1vh;
+    color: #A31D1D;
+
+}
+
+header img {
+  margin-top: -8vh;
+    margin-left: -4vh;
+    height: 28vh;
+    position: absolute;
+}
