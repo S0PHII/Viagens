@@ -52,7 +52,7 @@ header img {
   margin-top: 4vh;
   display: grid;
   grid-template-columns: repeat(3, 50vh);
-  grid-template-rows: repeat(3, 50vh);
+  grid-template-rows: repeat(2, 50vh);
   gap: 30px;
 }
 
