@@ -134,7 +134,7 @@ grid-column: 2 / 3;
 
 .item_petra .grid_titulo {
 
-  margin-left: -122vh;
+  margin-left: -53vh;
     font-weight: bolder;
     position: absolute;
     font-size: 7vh;
@@ -143,16 +143,16 @@ grid-column: 2 / 3;
 
 .item_val .grid_titulo {
 
-  margin-left: -122vh;
+  margin-left: -54vh;
     font-weight: bolder;
     position: absolute;
     font-size: 7vh;
     
 }
 
-.item_curitiba .grid_titulo {
+.item_cwb .grid_titulo {
 
-  margin-left: -122vh;
+  margin-left: -44vh;
     font-weight: bolder;
     position: absolute;
     font-size: 7vh;
