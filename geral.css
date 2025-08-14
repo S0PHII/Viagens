@@ -50,6 +50,7 @@ header img {
 .conteiner {
  margin-left: 7vh;
   margin-top: 4vh;
+  margin-bottom: 7vh;
   display: grid;
   grid-template-columns: repeat(3, 50vh);
   grid-template-rows: repeat(2, 50vh);
