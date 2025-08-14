@@ -69,7 +69,7 @@ header img {
 
 }
 
-.grid_item a:hover {
+.grid_item a span:hover {
   color: white;
 }
 
