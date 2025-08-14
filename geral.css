@@ -47,6 +47,7 @@ header img {
 }
 
 .conteiner {
+  margin-left: 23vh;
   display: grid;
   grid-template-columns: repeat(3, 50vh);
   grid-template-rows: repeat(3, 50vh);
@@ -64,6 +65,6 @@ header img {
 }
 
 .item_monaco img {
-  width: 2vh;
-  height: 2vh;
+  width: 97vh;
+  height: 43vh;
 }
