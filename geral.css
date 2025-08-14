@@ -93,3 +93,15 @@ header img {
  width: 55vh;
     height: 43vh;
 }
+
+.item_cwb {
+  grid-column: 2/3;
+  grid-row: 2;
+  width: 62vh;
+}
+
+.item_cwb img {
+  margin-left: 30vh;
+ width: 55vh;
+    height: 43vh;
+}
