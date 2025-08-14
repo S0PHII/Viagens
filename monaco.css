@@ -50,7 +50,18 @@ footer p {
 
 .informação {
 background-color: #f85a5a;
-height: 20vh;
-width: 60vh;
-margin: 5vh;
+    height: 36vh;
+    padding: 3vh;
+    width: 110vh;
+    margin: 5vh;
+}
+
+.informação p {
+    color: white;
+    font-weight: bolder;
+}
+
+.informação h2 {
+        color: #5f0909;
+
 }
