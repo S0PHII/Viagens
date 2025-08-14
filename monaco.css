@@ -30,6 +30,13 @@ header h1 {
 
 }
 
+header img {
+  margin-top: -8vh;
+    margin-left: -4vh;
+    height: 28vh;
+    position: absolute;
+}
+
 footer {
   background-color: var(--corpo);
   height: 19vh;
