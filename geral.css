@@ -29,7 +29,16 @@ header h1 {
     color: #A31D1D;
 
 }
+footer {
+  background-color: var(--cabecalho);
+  height: 12vh;
+}
 
+footer p {
+  text-align: center;
+  font-size: 6vh;
+  color: white;
+}
 header img {
   margin-top: -8vh;
     margin-left: -4vh;
@@ -39,6 +48,8 @@ header img {
 
 .conteiner {
   display: grid;
-  grid-template-columns: 90px
-
+  grid-template-columns: 90vh 90vh 90vh;
+  grid-template-rows: repeat(3, 50vh);
+  gap: 30px;
 }
+
