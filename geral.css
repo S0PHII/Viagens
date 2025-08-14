@@ -63,6 +63,7 @@ header img {
 .item_monaco {
   grid-column: 1 / 3; 
   grid-row: 1; 
+      width: 131vh;
 }
 
 .item_monaco img {
@@ -85,9 +86,10 @@ header img {
 .item_val {
   grid-column: 1 / 3;
   grid-row: 2;
+  width: 62vh;
 }
 
 .item_val img {
-  width:20vh ;
-  height: 30vh;
+ width: 55vh;
+    height: 43vh;
 }
