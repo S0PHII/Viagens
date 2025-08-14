@@ -47,7 +47,8 @@ header img {
 }
 
 .conteiner {
-  margin-left: 23vh;
+ margin-left: 7vh;
+  margin-top: 4vh;
   display: grid;
   grid-template-columns: repeat(3, 50vh);
   grid-template-rows: repeat(3, 50vh);
@@ -65,6 +66,16 @@ header img {
 }
 
 .item_monaco img {
+  width: 97vh;
+  height: 43vh;
+}
+
+.item_petra {
+  grid-column: 3 / 3;
+  grid-row: 1;
+}
+
+.item_petra img {
   width: 97vh;
   height: 43vh;
 }
