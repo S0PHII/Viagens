@@ -31,13 +31,14 @@ header h1 {
 }
 footer {
   background-color: var(--corpo);
-  height: 12vh;
+  height: 19vh;
 }
 
 footer p {
-  text-align: center;
-  font-size: 6vh;
-  color: white;
+  padding-top: 3vh;
+    text-align: center;
+    font-size: 16px;
+    color: #9c8b6c;
 }
 header img {
   margin-top: -8vh;
