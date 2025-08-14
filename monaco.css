@@ -1,0 +1,41 @@
+:root {
+    --cabecalho: #A31D1D;
+    --corpo: #ECDCBF;
+    --caixas: #D84040;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--cabecalho);
+  min-height: 100vh;
+}
+
+header {
+    height: 12vh;
+    background-color:var(--corpo);
+}
+
+header h1 {
+      position: absolute;
+    margin-left: 20vh;
+    font-size: 9vh;
+    margin-top: 1vh;
+    color: #A31D1D;
+
+}
+footer {
+  background-color: var(--corpo);
+  height: 19vh;
+}
+
+footer p {
+  padding-top: 3vh;
+    text-align: center;
+    font-size: 16px;
+    color: #9c8b6c; }
