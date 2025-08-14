@@ -98,13 +98,14 @@ header img {
 }
 
 .item_cwb {
-  grid-column: 2/3;
-  grid-row: 2;
-  width: 62vh;
+grid-column: 2 / 3;
+    grid-row: 2;
+    width: 62vh;
+    margin-left: 14vh;
 }
 
 .item_cwb img {
-  margin-left: 30vh;
+  
  width: 55vh;
     height: 43vh;
 }
