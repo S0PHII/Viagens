@@ -37,6 +37,10 @@ header img {
     position: absolute;
 }
 
+header img:hover {
+  cursor: pointer;
+}
+
 footer {
   background-color: var(--corpo);
   height: 19vh;
