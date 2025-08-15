@@ -59,7 +59,7 @@ background-color: #f85a5a;
 
 .informação p {
     color: white;
-    font-size: 2vh;
+    font-size: 3vh;
     text-align: center;
     font-weight: bolder;
 }
@@ -77,4 +77,11 @@ background-color: #f85a5a;
  position: absolute;
     margin-top: -80vh;
     margin-left: 113vh;
+}
+
+.informação img {
+  margin-left: 2vh;
+    margin-top: -15vh;
+    width: 31vh;
+    padding-top: 18vh;
 }
