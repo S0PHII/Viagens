@@ -40,6 +40,7 @@ header img {
 footer {
   background-color: var(--corpo);
   height: 19vh;
+  margin-top: 5vh;
 }
 
 footer p {
@@ -50,18 +51,30 @@ footer p {
 
 .informação {
 background-color: #f85a5a;
-    height: 36vh;
+    height: 75vh;
     padding: 3vh;
-    width: 110vh;
+    width: 103vh;
     margin: 5vh;
 }
 
 .informação p {
     color: white;
+    font-size: 4vh;
+    text-align: center;
     font-weight: bolder;
 }
 
 .informação h2 {
-        color: #5f0909;
+  color: #5f0909;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 6vh;
+    padding-bottom: 0vh;
 
+}
+
+.maps {
+ position: absolute;
+    margin-top: -80vh;
+    margin-left: 113vh;
 }
