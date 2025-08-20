@@ -43,8 +43,9 @@ header img:hover {
 
 footer {
   background-color: var(--corpo);
-  height: 19vh;
-  margin-top: 5vh;
+    height: 19vh;
+    margin-top: 20vh;
+    margin-left: -113vh;
 }
 
 footer p {
